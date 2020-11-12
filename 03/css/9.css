@@ -1,0 +1,23 @@
+.land_modal .close{
+    opacity: 1;
+    text-shadow: none;
+    color: #c9cdcc;
+}
+.land_modal .close:hover{
+    opacity: .5;
+}
+#landing, 
+.land_modal .modal-content{
+    background: #3d1c3d;
+    color: #c9cdcc;
+}
+#landing .service:hover{
+    background: #293751;
+}
+
+.l_programm .block:nth-child(odd){
+    background-color: #293751;
+}
+.l_counter .l_counter_timer {
+    color: #CA7878;
+}

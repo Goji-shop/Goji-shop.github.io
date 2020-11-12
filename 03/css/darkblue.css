@@ -1,0 +1,33 @@
+.service .service-icon{
+    color: #4765A0;
+}
+
+.headline h2, .headline h3, .headline h4{
+    border-bottom-color: #4765A0 !important;
+}
+
+.l_btn,
+.l_btn[disabled]{
+    border-color: #4765A0;
+    background-color: #4765A0;
+}
+
+.l_btn:hover,
+.l_btn:focus{
+    border-color: #324C80;
+    background-color: #324C80;
+}
+
+.da-slide h2 i{
+    background: url(../images/bg-heading-dark-blue.png);
+}
+
+.l_programm_about{
+    border-color: #4765A0;
+}
+
+@media (max-width: 768px){
+    .l_programm_item_date{
+        border-color: #4765A0;
+    }
+}
