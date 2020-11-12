@@ -36,7 +36,7 @@
     height: 50px;
 }
 .comments_nav.da-arrows span{
-    background-image: url(../images/arrows_1.png);
+    background-image: url(../images/arrows.png);
     display: block;
     position: relative;
     left: 0 !important;
